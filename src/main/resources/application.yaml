@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: embabel-mcp-client-file-operations
+  ai:
+    mcp:
+      client:
+        enabled: true
+        name: embabel-mcp-client-file-operations
+        version: 1.0.0
+        type: SYNC
+        sse:
+          connections:
+            embabel-mcp-file-server:
+              url: http://localhost:8080/sse # The URL of your MCP server
+
+server:
+  port: 8081
+
+embabel:
+  models:
+    defaultLlm: nex-agi/deepseek-v3.1-nex-n1:free
