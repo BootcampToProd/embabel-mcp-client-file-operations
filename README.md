@@ -6,7 +6,17 @@ This repository demonstrates how to build an **intelligent MCP (Model Context Pr
 👉 [**MCP Client: Build File Operations Agent with Embabel**](https://bootcamptoprod.com/embabel-mcp-client/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming Soon!!
+👉 YouTube Tutorial - [**Embabel Framework: Build a Smart MCP Client for File Operations**](https://youtu.be/cHQLyqeT0Uc)
+
+<p align="center">
+  <a href="https://youtu.be/cHQLyqeT0Uc">
+    <img src="https://img.youtube.com/vi/cHQLyqeT0Uc/0.jpg" alt="Embabel Framework: Build a Smart MCP Client for File Operations" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/cHQLyqeT0Uc">Watch on YouTube</a>
+</p>
 
 ---
 
